@@ -44,6 +44,10 @@ echo "<script>alert('Tambah maklumat berjaya'); "
                 <tr>
                     <td>ID</td>
                     <td><input type="text" name="id"></td>
+                </tr
+                <tr>
+                    <td>Jenis</td>
+                    <td><input type="text" name="jenis"></td>
                 </tr>
                 <tr>
                     <td></td>
